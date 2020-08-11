@@ -28,3 +28,12 @@ Refactor the Horiseon HTML and CSS files for Week One's assignment.
 >WHEN I view the title element <br>
 >  *THEN* I find a concise, descriptive title <br>
    01-Challenge-Horiseon-Refactoring
+   
+   ### Refactored Webpage Screenshot
+![Refactored Website](https://github.com/adokoye/01-Challenge-Horiseon-Refactoring/blob/master/Develop/assets/images/Horiseon_Website.png)
+
+### Links:
+[Deployed Application URL](https://adokoye.github.io/01-Challenge-Horiseon-Refactoring/)
+
+[GitHub Repository URL](https://github.com/adokoye/01-Challenge-Horiseon-Refactoring)
+
